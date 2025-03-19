@@ -1,0 +1,12 @@
+{
+  "name": "ramazan-bot",
+  "version": "1.0.0",
+  "description": "Bot for Ramazan Plaza",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
